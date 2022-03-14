@@ -1,5 +1,19 @@
 # Changelog
 
+## Version 0.2.0 (2022-03-14)
+
+### Features
+
+- **foo:** add foo (b59a289f)
+
+### Security Fixes
+
+- **auth:** fix authentication (83343979)
+
+### Chores and tidying
+
+- **deps:** update updates (6fb1a989)
+
 ## Version 0.1.3 (2022-03-14)
 
 ### Fixes
